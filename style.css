@@ -1,8 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Shizuru&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400;600&display=swap');
 
+body{
+background: linear-gradient(to right, #f8ff95 0%, rgb(174, 240, 174), #ff99cc 100%);
+}
+
 h1{
     font-family: 'Shizuru',sans-serif;
     text-align: center;
 }
+
 
